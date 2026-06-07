@@ -1,0 +1,15 @@
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\ChatServiceApplication.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\config\JwtFilter.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\config\SecurityConfig.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\config\WebSocketConfig.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\controller\ChatController.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\controller\WebSocketChatController.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\dto\ConversationResponse.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\dto\CreateConversationRequest.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\dto\MessageResponse.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\dto\SendMessageRequest.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\entity\Conversation.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\entity\Message.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\repository\ConversationRepo.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\repository\MessageRepo.java
+C:\Users\phamh\OneDrive\Desktop\pharmacy-soa\service\chat-service\src\main\java\com\pharmacy\chat_service\service\ChatService.java

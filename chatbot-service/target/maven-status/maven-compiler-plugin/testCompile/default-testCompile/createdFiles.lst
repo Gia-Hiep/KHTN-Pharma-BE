@@ -1,0 +1,5 @@
+com\pharmacy\chatbot_service\controller\ChatbotControllerTest$1.class
+com\pharmacy\chatbot_service\service\ChatbotOrchestratorTest.class
+com\pharmacy\chatbot_service\controller\ChatbotControllerTest.class
+com\pharmacy\chatbot_service\service\RagServiceTest.class
+com\pharmacy\chatbot_service\service\KnowledgeBaseBootstrapServiceTest.class

@@ -1,0 +1,15 @@
+package com.pharmacy.catalog_service.dto;
+
+import java.math.BigDecimal;
+
+public record CreateMedicineUnitRequest(
+        String unitCode,
+        String unitLabel,
+        Integer conversionFactor,
+        BigDecimal retailPrice,
+        BigDecimal wholesalePrice,
+        Integer wholesaleMinQty,
+        Boolean isBaseUnit,
+        Boolean isDefaultSaleUnit,
+        Boolean isActive
+) {}

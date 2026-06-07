@@ -1,0 +1,17 @@
+com\pharmacy\chat_service\dto\CreateConversationRequest.class
+com\pharmacy\chat_service\entity\Message.class
+com\pharmacy\chat_service\config\SecurityConfig.class
+com\pharmacy\chat_service\dto\SendMessageRequest.class
+com\pharmacy\chat_service\dto\MessageResponse.class
+com\pharmacy\chat_service\entity\Conversation.class
+com\pharmacy\chat_service\ChatServiceApplication.class
+com\pharmacy\chat_service\repository\MessageRepo.class
+com\pharmacy\chat_service\config\JwtFilter.class
+com\pharmacy\chat_service\config\WebSocketConfig.class
+com\pharmacy\chat_service\controller\ChatController.class
+com\pharmacy\chat_service\controller\WebSocketChatController.class
+com\pharmacy\chat_service\service\ChatService.class
+com\pharmacy\chat_service\controller\WebSocketChatController$TypingNotification.class
+com\pharmacy\chat_service\repository\ConversationRepo.class
+com\pharmacy\chat_service\dto\ConversationResponse.class
+com\pharmacy\chat_service\controller\WebSocketChatController$ReadNotification.class
